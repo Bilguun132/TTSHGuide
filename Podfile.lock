@@ -1,0 +1,32 @@
+PODS:
+  - ArcGIS-Runtime-SDK-iOS (100.2.1)
+  - DropDownMenuKit (0.8.5)
+  - IndoorAtlas (2.9.4)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - ArcGIS-Runtime-SDK-iOS (= 100.2.1)
+  - DropDownMenuKit
+  - IndoorAtlas
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ArcGIS-Runtime-SDK-iOS
+    - DropDownMenuKit
+    - IndoorAtlas
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ArcGIS-Runtime-SDK-iOS: 5259f90133e72ba6b06d5a7dc60cb75dda0e970a
+  DropDownMenuKit: 3d205b72c8fc3a5669206375d8a94119f2016841
+  IndoorAtlas: 2c800357155d042ac1196d514f276c9df1baac85
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 027ac353037764d888633f41d2ca75991e9b057d
+
+COCOAPODS: 1.5.3
